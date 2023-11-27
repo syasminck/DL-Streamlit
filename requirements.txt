@@ -1,6 +1,10 @@
-streamlit
+pandas
+sklearn
+scikit-learn
+tqdm
+imageio
+seaborn
+opencv-python
 numpy
 tensorflow
-pandas
-scikit-learn
-opencv
+streamlit
